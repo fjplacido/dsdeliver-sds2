@@ -10,7 +10,7 @@ DS Delevery é uma aplicação full stack web e mobile construída durante a 2ª
 A aplicação consiste em um sistema de pedidos e entrega (delivery) de um restaurante.
 
 ## Visão Geral da Arquitetura
-![Arquitetura](https://github.com/devsuperior/sds2/assets/camadas.png)
+![Arquitetura](https://github.com/devsuperior/sds2/blob/master/assets/camadas.png)
 
 ## Modelo Conceitual
 ![Modelo Conceitual](https://github.com/devsuperior/sds2/blob/master/assets/modelo-conceitual.png)
