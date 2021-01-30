@@ -12,8 +12,8 @@ A aplicação consiste em um sistema de pedidos e entrega (delivery) de um resta
 ## Visão Geral da Arquitetura
 ![Arquitetura](https://github.com/devsuperior/sds2/assets/camadas.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/sds2/master/assets/modelo-conceitual.png)
+## Modelo Conceitual
+![Modelo Conceitual](https://github.com/devsuperior/sds2/blob/master/assets/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
