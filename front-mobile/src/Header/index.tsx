@@ -18,7 +18,6 @@ function Header() {
                 <Text style={styles.text}>DS Delivery</Text>
             </View>
         </TouchableWithoutFeedback>
-
     );
 }
 
